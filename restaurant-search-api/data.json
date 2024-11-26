@@ -1,0 +1,1558 @@
+{
+    "Denny": [
+        {
+            "Word": "place",
+            "Total": 13,
+            "Positive count": 4,
+            "Rate": 30.77
+        },
+        {
+            "Word": "customer service",
+            "Total": 2,
+            "Positive count": 1,
+            "Rate": 50.0
+        },
+        {
+            "Word": "employees",
+            "Total": 1,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "order",
+            "Total": 1,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "check",
+            "Total": 1,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "milkshake",
+            "Total": 1,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "server",
+            "Total": 5,
+            "Positive count": 4,
+            "Rate": 80.0
+        },
+        {
+            "Word": "prices",
+            "Total": 1,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "food",
+            "Total": 36,
+            "Positive count": 13,
+            "Rate": 36.11
+        },
+        {
+            "Word": "location",
+            "Total": 4,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "service",
+            "Total": 30,
+            "Positive count": 16,
+            "Rate": 53.33
+        },
+        {
+            "Word": "attendant",
+            "Total": 2,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "people",
+            "Total": 1,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "staff",
+            "Total": 3,
+            "Positive count": 2,
+            "Rate": 66.67
+        },
+        {
+            "Word": "atmosphere",
+            "Total": 3,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "pancakes",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 50.0
+        },
+        {
+            "Word": "orange juice",
+            "Total": 1,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "wait times",
+            "Total": 1,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "denny's",
+            "Total": 7,
+            "Positive count": 2,
+            "Rate": 28.57
+        },
+        {
+            "Word": "waitress",
+            "Total": 4,
+            "Positive count": 2,
+            "Rate": 50.0
+        },
+        {
+            "Word": "steak",
+            "Total": 4,
+            "Positive count": 3,
+            "Rate": 75.0
+        },
+        {
+            "Word": "lasagna",
+            "Total": 1,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "cake puppies",
+            "Total": 2,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "omelet",
+            "Total": 2,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "waiter",
+            "Total": 3,
+            "Positive count": 1,
+            "Rate": 33.33
+        },
+        {
+            "Word": "price",
+            "Total": 7,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "meat",
+            "Total": 1,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "experience",
+            "Total": 3,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "burger",
+            "Total": 8,
+            "Positive count": 5,
+            "Rate": 62.5
+        },
+        {
+            "Word": "breakfast",
+            "Total": 5,
+            "Positive count": 3,
+            "Rate": 60.0
+        },
+        {
+            "Word": "time",
+            "Total": 2,
+            "Positive count": 1,
+            "Rate": 50.0
+        },
+        {
+            "Word": "patty",
+            "Total": 6,
+            "Positive count": 6,
+            "Rate": 100.0
+        },
+        {
+            "Word": "toppings",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "bun",
+            "Total": 4,
+            "Positive count": 4,
+            "Rate": 100.0
+        },
+        {
+            "Word": "eggs",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "hash browns",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "ambiance",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "server (jenny)",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "chicken",
+            "Total": 3,
+            "Positive count": 3,
+            "Rate": 100.0
+        },
+        {
+            "Word": "crew",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "grand slam pack",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "cheeseburger",
+            "Total": 3,
+            "Positive count": 3,
+            "Rate": 100.0
+        },
+        {
+            "Word": "fries",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "attention",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "portion sizes",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "option",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "coffee",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "brunch",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "reviews",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "grilled cheese shop",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "skillet",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "pancake",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "hostesses",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "team",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "meal",
+            "Total": 3,
+            "Positive count": 3,
+            "Rate": 100.0
+        },
+        {
+            "Word": "restaurant",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        }
+    ],
+    "Benjamin": [
+        {
+            "Word": "lobster bisque",
+            "Total": 3,
+            "Positive count": 2,
+            "Rate": 67.0
+        },
+        {
+            "Word": "scottish salmon tartare",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "ribeye",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "filet mignon",
+            "Total": 2,
+            "Positive count": 1,
+            "Rate": 50.0
+        },
+        {
+            "Word": "steak fries",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "mash",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "creamed spinach",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "house steak sauce",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "waiter",
+            "Total": 6,
+            "Positive count": 2,
+            "Rate": 33.0
+        },
+        {
+            "Word": "interior decor",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "seats",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "restaurant week",
+            "Total": 7,
+            "Positive count": 6,
+            "Rate": 86.0
+        },
+        {
+            "Word": "place",
+            "Total": 4,
+            "Positive count": 3,
+            "Rate": 75.0
+        },
+        {
+            "Word": "grilled calamari",
+            "Total": 2,
+            "Positive count": 1,
+            "Rate": 50.0
+        },
+        {
+            "Word": "sirloin",
+            "Total": 6,
+            "Positive count": 4,
+            "Rate": 67.0
+        },
+        {
+            "Word": "sirloin",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "ribeye",
+            "Total": 3,
+            "Positive count": 1,
+            "Rate": 33.0
+        },
+        {
+            "Word": "chocolate cake",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "sea bass",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "seasoning",
+            "Total": 2,
+            "Positive count": 1,
+            "Rate": 50.0
+        },
+        {
+            "Word": "service",
+            "Total": 6,
+            "Positive count": 2,
+            "Rate": 33.0
+        },
+        {
+            "Word": "wine",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "date night",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "friends",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "food",
+            "Total": 8,
+            "Positive count": 6,
+            "Rate": 75.0
+        },
+        {
+            "Word": "staff",
+            "Total": 11,
+            "Positive count": 9,
+            "Rate": 82.0
+        },
+        {
+            "Word": "treatment",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "establishment",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "gratuity",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "behaviour",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "spot",
+            "Total": 2,
+            "Positive count": 1,
+            "Rate": 50.0
+        },
+        {
+            "Word": "room",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "group",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "everyone",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "steak house",
+            "Total": 4,
+            "Positive count": 3,
+            "Rate": 75.0
+        },
+        {
+            "Word": "meal",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "lamb chops",
+            "Total": 2,
+            "Positive count": 1,
+            "Rate": 50.0
+        },
+        {
+            "Word": "porterhouse",
+            "Total": 4,
+            "Positive count": 3,
+            "Rate": 75.0
+        },
+        {
+            "Word": "flavor",
+            "Total": 5,
+            "Positive count": 5,
+            "Rate": 100.0
+        },
+        {
+            "Word": "variety",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "scotch",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "reservations",
+            "Total": 2,
+            "Positive count": 1,
+            "Rate": 50.0
+        },
+        {
+            "Word": "interior",
+            "Total": 2,
+            "Positive count": 1,
+            "Rate": 50.0
+        },
+        {
+            "Word": "burrata",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "steak",
+            "Total": 4,
+            "Positive count": 2,
+            "Rate": 50.0
+        },
+        {
+            "Word": "chocolate mousse cake",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "restaurant week deal",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "bar",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "cocktail menu",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "bread basket",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "server",
+            "Total": 2,
+            "Positive count": 1,
+            "Rate": 50.0
+        },
+        {
+            "Word": "basket",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "bread",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "prime salad",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "crab meat",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "cappuccino",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "benjamin steakhouse",
+            "Total": 4,
+            "Positive count": 4,
+            "Rate": 100.0
+        },
+        {
+            "Word": "deal",
+            "Total": 5,
+            "Positive count": 5,
+            "Rate": 100.0
+        },
+        {
+            "Word": "breadbasket",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "thick cut bacon",
+            "Total": 2,
+            "Positive count": 1,
+            "Rate": 50.0
+        },
+        {
+            "Word": "bite",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "broccoli",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "cabernet",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "pinot noir",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "mousse",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "crust",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "coffee",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "managers",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "power lunch",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "steakhouse",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "prefix menu",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "heart",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "midtown",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "lunch prefix menu",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "salads",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "caesar",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "wedge salad",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "junior sirloins",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "mash potatoes",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "vegetable medley",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "temperature",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "time",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "course price fixe menu",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "options",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "location",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "classic ny steakhouse energy",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "overall experience",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "company",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "restaurant",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "reservation",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "table",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "everything",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "cocktail",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "places",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "mixed bag",
+            "Total": 2,
+            "Positive count": 1,
+            "Rate": 50.0
+        },
+        {
+            "Word": "brussels sprouts",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "steak knives",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "water",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "take out boxes",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "windows",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "curtains",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "back",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "celebs",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "people",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "ny strip steak",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "dessert",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "outpost",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "steakhouse chain",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "friday night",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "cosmopolitan",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "martini",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "glass",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "baked potato",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "dining room",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "price",
+            "Total": 2,
+            "Positive count": 1,
+            "Rate": 50.0
+        },
+        {
+            "Word": "laurels",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "calories",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "butter",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "cold air",
+            "Total": 2,
+            "Positive count": 1,
+            "Rate": 50.0
+        },
+        {
+            "Word": "vent",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "steak doneness",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "bunch steaks",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "mushrooms",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "corn",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "mashed potatoes",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "environment",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        }
+    ],
+    "HUI Restaurant & Bar": [
+        {
+            "Word": "dishes",
+            "Total": 3,
+            "Positive count": 3,
+            "Rate": 100.0
+        },
+        {
+            "Word": "service",
+            "Total": 21,
+            "Positive count": 19,
+            "Rate": 90.0
+        },
+        {
+            "Word": "food",
+            "Total": 9,
+            "Positive count": 8,
+            "Rate": 89.0
+        },
+        {
+            "Word": "chinese food",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "fish fillet soup",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "dumplings",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "chinese restaurant",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "seating",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "bar",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "dan dan noodles",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "appetizer",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "choice",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "soup dumplings/xi long bao",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "good size",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "traditional cold sesame noodles",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "restaurant",
+            "Total": 3,
+            "Positive count": 3,
+            "Rate": 100.0
+        },
+        {
+            "Word": "ribs",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "rice",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "pancakes",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "soup",
+            "Total": 3,
+            "Positive count": 3,
+            "Rate": 100.0
+        },
+        {
+            "Word": "staff",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "website",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "noodles",
+            "Total": 3,
+            "Positive count": 1,
+            "Rate": 33.0
+        },
+        {
+            "Word": "space",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "spot",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "atmosphere",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "beef",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "pork belly",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "vegetables",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "dish",
+            "Total": 3,
+            "Positive count": 2,
+            "Rate": 67.0
+        },
+        {
+            "Word": "waiters",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "tofu",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "leafy greens",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "portions",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "prices",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "experience",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "fish",
+            "Total": 3,
+            "Positive count": 3,
+            "Rate": 100.0
+        },
+        {
+            "Word": "ambiance",
+            "Total": 4,
+            "Positive count": 4,
+            "Rate": 100.0
+        },
+        {
+            "Word": "value",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "lamb",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "flavors",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "taste",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "double cooked pork",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "meat dishes",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "folks",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "interiors",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "peking duck",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "saturday special",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "buns",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "duck",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "broth",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "mochi",
+            "Total": 1,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "palate",
+            "Total": 1,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "group",
+            "Total": 1,
+            "Positive count": 0,
+            "Rate": 0.0
+        },
+        {
+            "Word": "delivery and pickup systems",
+            "Total": 2,
+            "Positive count": 0,
+            "Rate": 0.0
+        }
+    ],
+    "Carnegie Diner": [
+        {
+            "Word": "Food",
+            "Total": 7,
+            "Positive count": 7,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Service",
+            "Total": 9,
+            "Positive count": 7,
+            "Rate": 78.0
+        },
+        {
+            "Word": "Staff",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Pancakes",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Reservation",
+            "Total": 2,
+            "Positive count": 1,
+            "Rate": 50.0
+        },
+        {
+            "Word": "Portions",
+            "Total": 3,
+            "Positive count": 3,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Omelet",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Milkshake",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Experience",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Friend",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Decor",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Pork Chop",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Sprouts",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Menu",
+            "Total": 2,
+            "Positive count": 2,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Workers",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Diner",
+            "Total": 3,
+            "Positive count": 3,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Burger",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Fries",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Salad",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Sandwich",
+            "Total": 3,
+            "Positive count": 3,
+            "Rate": 100.0
+        },
+        {
+            "Word": "Salads",
+            "Total": 1,
+            "Positive count": 1,
+            "Rate": 100.0
+        }
+    ]
+}
